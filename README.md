@@ -1,1 +1,1 @@
-# do_you_even_version_control_bro
+# Don't rename files, use git.
